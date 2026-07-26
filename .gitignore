@@ -1,0 +1,7 @@
+build/
+settings.json
+.vscode/
+assets/fonts/*.ttf
+assets/fonts/*.otf
+assets/fonts/*.TTF
+assets/fonts/*.OTF
