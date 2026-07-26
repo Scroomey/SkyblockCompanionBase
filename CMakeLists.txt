@@ -32,6 +32,13 @@ target_link_libraries(SkyblockCore
 add_executable(SkyblockCompanion
     src/app/main.cpp
     src/app/AppSettings.cpp
+    src/app/ContestFormatting.cpp
+    src/app/DashboardPage.cpp
+    src/app/ContestPage.cpp
+    src/app/FilterPage.cpp
+    src/app/SettingsPage.cpp
+    src/app/CustomizationPage.cpp
+    src/app/UiSupport.cpp
 )
 
 target_include_directories(SkyblockCompanion
